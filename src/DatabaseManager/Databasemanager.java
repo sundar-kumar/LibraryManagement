@@ -710,7 +710,9 @@ String query="insert into Book(dept_id,book_name,author_name,publisher_name,year
       }
       
   }
-
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
    
 } //end class
 
